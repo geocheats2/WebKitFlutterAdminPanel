@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" style="overflow: visible;">
+    <defs transform="matrix(0.9377183611601477, 0, 0, 0.9377183611601477, 15.944090611388951, 15.944092746021454)"
+    >
+        <linearGradient x1="50.04%" y1="-0.01%" x2="49.96%" y2="100.01%" id="o_f6l2kehmb_3"
+                        gradientUnits="objectBoundingBox">
+            <stop offset="0%" stop-color="rgb(2, 204, 214)" stop-opacity="1.00"/>
+            <stop offset="61%" stop-color="rgb(0, 103, 132)" stop-opacity="1.00"/>
+            <stop offset="100%" stop-color="rgb(4, 96, 201)" stop-opacity="1.00"/>
+        </linearGradient>
+    </defs>
+    <g transform="matrix(0.9125998381939485, 0, 0, 1.1495087591060194, 11.895288669716324, -38.5085434300516)"
+       fill="url(#o_f6l2kehmb_3)">
+        <path d="M50 273.5c-27.57 0-50 22.43-50 50v105c0 27.57 22.43 50 50 50s50-22.43 50-50v-105C100 295.93 77.57 273.5 50 273.5z"
+              transform="matrix(1, 0, 0, 1, -12, 0)" fill="url(#o_f6l2kehmb_3)"/>
+        <path d="M324.667 333.5c-27.57 0-50 22.43-50 50v45c0 27.57 22.43 50 50 50s50-22.43 50-50v-45
+			C374.667 355.93 352.237 333.5 324.667 333.5z" transform="matrix(1, 0, 0, 1, 24, 0)"/>
+        <path d="M324.667 98.5c-27.57 0-50 22.43-50 50v105c0 27.57 22.43 50 50 50s50-22.43 50-50v-105
+			C374.667 120.93 352.237 98.5 324.667 98.5z" transform="matrix(1, 0, 0, 1, 24, 0)" fill="url(#o_f6l2kehmb_3)"
+        />
+        <path d="M462 238.5c-27.57 0-50 22.43-50 50v140c0 27.57 22.43 50 50 50s50-22.43 50-50v-140C512 260.93 489.57 238.5 462 238.5z"
+              transform="matrix(1, 0, 0, 1, 36, 0)" fill="url(#o_f6l2kehmb_3)"/>
+        <path d="M187.333 33.5c-27.57 0-50 22.43-50 50v345c0 27.57 22.43 50 50 50s50-22.43 50-50v-345
+			C237.333 55.93 214.904 33.5 187.333 33.5z" transform="matrix(1, 0, 0, 1, 6, 0)" fill="url(#o_f6l2kehmb_3)"
+        />
+    </g>
+</svg>

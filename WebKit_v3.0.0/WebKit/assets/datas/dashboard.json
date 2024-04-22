@@ -1,0 +1,902 @@
+[
+  {
+    "value": 7.6,
+    "sum": 19.69,
+    "metric": "Mechanical Systems Engineer",
+    "tag": "Christmas Party",
+    "processBar": 0.6,
+    "title": "Farra",
+    "email": "froalfe5@reuters.com"
+  },
+  {
+    "value": 8.1,
+    "sum": 30.35,
+    "metric": "GIS Technical Architect",
+    "tag": "Manito",
+    "processBar": 0.6,
+    "title": "Horatia",
+    "email": "hhighway0@jimdo.com"
+  },
+  {
+    "value": 8.3,
+    "sum": 24.23,
+    "metric": "Electrical Engineer",
+    "tag": "Five Minutes to Live",
+    "processBar": 0.8,
+    "title": "Milt",
+    "email": "mspaice1@nyu.edu"
+  },
+  {
+    "value": 4.1,
+    "sum": 34.56,
+    "metric": "Help Desk Technician",
+    "tag": "Kismet",
+    "processBar": 0.3,
+    "title": "Cassie",
+    "email": "clawee2@bravesites.com"
+  },
+  {
+    "value": 7.1,
+    "sum": 60.67,
+    "metric": "Computer Systems Analyst III",
+    "tag": "Season's Greetings",
+    "processBar": 0.8,
+    "title": "Jodi",
+    "email": "jlyle3@gnu.org"
+  },
+  {
+    "value": 4.3,
+    "sum": 85.07,
+    "metric": "Software Engineer III",
+    "tag": "Eminem AKA ",
+    "processBar": 0.3,
+    "title": "Sisile",
+    "email": "skeatley4@java.com"
+  },
+  {
+    "value": 6.4,
+    "sum": 40.23,
+    "metric": "Editor",
+    "tag": "Bang Bang Club, The",
+    "processBar": 1.0,
+    "title": "Jackson",
+    "email": "jdimsdale6@house.gov"
+  },
+  {
+    "value": 7.6,
+    "sum": 28.68,
+    "metric": "Librarian",
+    "tag": "Crime and Punishment",
+    "processBar": 0.7,
+    "title": "Marketa",
+    "email": "mpauley7@g.co"
+  },
+  {
+    "value": 8.5,
+    "sum": 90.98,
+    "metric": "Tax Accountant",
+    "tag": "White Night (Hvid nat)",
+    "processBar": 0.1,
+    "title": "Sue",
+    "email": "sbrackenridge8@flickr.com"
+  },
+  {
+    "value": 3.9,
+    "sum": 97.54,
+    "metric": "Analyst Programmer",
+    "tag": "Horror Business",
+    "processBar": 0.8,
+    "title": "Dannye",
+    "email": "dtrimme9@imageshack.us"
+  },
+  {
+    "value": 6.8,
+    "sum": 98.61,
+    "metric": "Nurse Practicioner",
+    "tag": "Fat Kid Rules the World",
+    "processBar": 0.7,
+    "title": "Land",
+    "email": "lsidlowa@amazonaws.com"
+  },
+  {
+    "value": 7.2,
+    "sum": 62.67,
+    "metric": "Automation Specialist IV",
+    "tag": "Speedway",
+    "processBar": 1.0,
+    "title": "Keenan",
+    "email": "khynsonb@sciencedaily.com"
+  },
+  {
+    "value": 3.3,
+    "sum": 35.48,
+    "metric": "Information Systems Manager",
+    "tag": "Pebble and the Penguin, The",
+    "processBar": 0.9,
+    "title": "Sigismondo",
+    "email": "slexac@artisteer.com"
+  },
+  {
+    "value": 2.5,
+    "sum": 94.54,
+    "metric": "Staff Scientist",
+    "tag": "Chronicles of Riddick, The",
+    "processBar": 0.8,
+    "title": "Susanna",
+    "email": "sgrenshieldsd@topsy.com"
+  },
+  {
+    "value": 9.2,
+    "sum": 34.48,
+    "metric": "Structural Analysis Engineer",
+    "tag": "Mister Lonely",
+    "processBar": 0.5,
+    "title": "Madlen",
+    "email": "manthone@pbs.org"
+  },
+  {
+    "value": 2.2,
+    "sum": 56.85,
+    "metric": "Legal Assistant",
+    "tag": "Here Without Me (Inja bedoone man)",
+    "processBar": 0.7,
+    "title": "Siouxie",
+    "email": "scleveleyf@cbslocal.com"
+  },
+  {
+    "value": 7.5,
+    "sum": 32.12,
+    "metric": "Pharmacist",
+    "tag": "Crank",
+    "processBar": 0.7,
+    "title": "Joya",
+    "email": "jhilleyg@bizjournals.com"
+  },
+  {
+    "value": 1.3,
+    "sum": 37.64,
+    "metric": "Computer Systems Analyst III",
+    "tag": "What Ever Happened to Baby Jane?",
+    "processBar": 0.3,
+    "title": "Oran",
+    "email": "othorogoodh@home.pl"
+  },
+  {
+    "value": 9.6,
+    "sum": 53.71,
+    "metric": "Developer IV",
+    "tag": "Changing Lanes",
+    "processBar": 0.9,
+    "title": "Ezmeralda",
+    "email": "eferraronei@dyndns.org"
+  },
+  {
+    "value": 6.6,
+    "sum": 86.62,
+    "metric": "Clinical Specialist",
+    "tag": "Lineup, The",
+    "processBar": 0.8,
+    "title": "Rodrick",
+    "email": "rsearlesj@shinystat.com"
+  },
+  {
+    "value": 7.1,
+    "sum": 38.19,
+    "metric": "Human Resources Manager",
+    "tag": "Cinema Verite",
+    "processBar": 0.0,
+    "title": "Egbert",
+    "email": "eroperk@rediff.com"
+  },
+  {
+    "value": 9.1,
+    "sum": 32.07,
+    "metric": "Nurse Practicioner",
+    "tag": "Breathing Fire",
+    "processBar": 0.9,
+    "title": "Wynnie",
+    "email": "wpietzl@bing.com"
+  },
+  {
+    "value": 6.5,
+    "sum": 52.07,
+    "metric": "Analyst Programmer",
+    "tag": "Obsession",
+    "processBar": 0.0,
+    "title": "Charlean",
+    "email": "cleathartm@51.la"
+  },
+  {
+    "value": 5.2,
+    "sum": 69.11,
+    "metric": "Clinical Specialist",
+    "tag": "Port of Call (Hamnstad)",
+    "processBar": 0.8,
+    "title": "Selina",
+    "email": "sbyrdn@aol.com"
+  },
+  {
+    "value": 1.8,
+    "sum": 81.15,
+    "metric": "VP Sales",
+    "tag": "Sleepy Hollow",
+    "processBar": 0.5,
+    "title": "Marthena",
+    "email": "mvinicko@sogou.com"
+  },
+  {
+    "value": 6.2,
+    "sum": 55.02,
+    "metric": "Software Consultant",
+    "tag": "Serious Man, A",
+    "processBar": 0.8,
+    "title": "Reine",
+    "email": "rscadingp@blogger.com"
+  },
+  {
+    "value": 4.8,
+    "sum": 77.51,
+    "metric": "Media Manager IV",
+    "tag": "Raven, The",
+    "processBar": 0.8,
+    "title": "Stephanie",
+    "email": "slevenq@slate.com"
+  },
+  {
+    "value": 1.7,
+    "sum": 99.53,
+    "metric": "Payment Adjustment Coordinator",
+    "tag": "Position Among The Stars (Stand van de Sterren)",
+    "processBar": 0.7,
+    "title": "Herman",
+    "email": "hdigginr@mashable.com"
+  },
+  {
+    "value": 8.3,
+    "sum": 67.15,
+    "metric": "Senior Developer",
+    "tag": "Batman Begins",
+    "processBar": 0.5,
+    "title": "Shay",
+    "email": "schristous@washingtonpost.com"
+  },
+  {
+    "value": 6.7,
+    "sum": 29.72,
+    "metric": "Automation Specialist I",
+    "tag": "\"Great Performances\" Cats",
+    "processBar": 0.3,
+    "title": "Werner",
+    "email": "wgillmant@forbes.com"
+  },
+  {
+    "value": 6.6,
+    "sum": 19.48,
+    "metric": "Graphic Designer",
+    "tag": "Love, etc.",
+    "processBar": 0.3,
+    "title": "Algernon",
+    "email": "agaymaru@eventbrite.com"
+  },
+  {
+    "value": 8.4,
+    "sum": 81.56,
+    "metric": "Actuary",
+    "tag": "Monty Python's Life of Brian",
+    "processBar": 1.0,
+    "title": "Terry",
+    "email": "tmuzzallv@ovh.net"
+  },
+  {
+    "value": 2.2,
+    "sum": 85.8,
+    "metric": "GIS Technical Architect",
+    "tag": "Pay It Forward",
+    "processBar": 0.8,
+    "title": "Sheffie",
+    "email": "spieroniw@irs.gov"
+  },
+  {
+    "value": 5.3,
+    "sum": 73.45,
+    "metric": "Quality Engineer",
+    "tag": "Dreamboat",
+    "processBar": 0.9,
+    "title": "Louise",
+    "email": "lguildx@creativecommons.org"
+  },
+  {
+    "value": 3.5,
+    "sum": 97.39,
+    "metric": "Associate Professor",
+    "tag": "Dead Heat on a Merry-Go-Round",
+    "processBar": 0.8,
+    "title": "Melinda",
+    "email": "mgiblingy@guardian.co.uk"
+  },
+  {
+    "value": 8.6,
+    "sum": 56.28,
+    "metric": "Systems Administrator I",
+    "tag": "Bigfoot Lives",
+    "processBar": 0.1,
+    "title": "Heall",
+    "email": "hnuthz@icq.com"
+  },
+  {
+    "value": 7.0,
+    "sum": 89.78,
+    "metric": "Financial Advisor",
+    "tag": "Comme un chef",
+    "processBar": 0.2,
+    "title": "Timmy",
+    "email": "tgodfery10@homestead.com"
+  },
+  {
+    "value": 4.5,
+    "sum": 84.05,
+    "metric": "Technical Writer",
+    "tag": "Soldier's Girl",
+    "processBar": 0.6,
+    "title": "Myrtia",
+    "email": "mrenhard11@pagesperso-orange.fr"
+  },
+  {
+    "value": 10.0,
+    "sum": 87.37,
+    "metric": "Project Manager",
+    "tag": "Zatoichi on the Road (Zatôichi kenka-tabi) (Zatôichi 5)",
+    "processBar": 0.1,
+    "title": "Odilia",
+    "email": "oraddon12@accuweather.com"
+  },
+  {
+    "value": 9.9,
+    "sum": 76.56,
+    "metric": "Environmental Specialist",
+    "tag": "Assassination (Ansatsu) (Assassination, The) (Assassin, The)",
+    "processBar": 0.6,
+    "title": "Lionel",
+    "email": "lesom13@dell.com"
+  },
+  {
+    "value": 2.7,
+    "sum": 59.36,
+    "metric": "Database Administrator I",
+    "tag": "Elle: A Modern Cinderella Tale",
+    "processBar": 0.1,
+    "title": "Charlie",
+    "email": "crouby14@dedecms.com"
+  },
+  {
+    "value": 9.0,
+    "sum": 38.64,
+    "metric": "Senior Editor",
+    "tag": "Grandfather, The (Abuelo, El)",
+    "processBar": 0.9,
+    "title": "Stephen",
+    "email": "scoleyshaw15@kickstarter.com"
+  },
+  {
+    "value": 8.4,
+    "sum": 86.82,
+    "metric": "Assistant Manager",
+    "tag": "Nowhere to Run",
+    "processBar": 0.2,
+    "title": "Tiff",
+    "email": "thousby16@gizmodo.com"
+  },
+  {
+    "value": 9.1,
+    "sum": 77.3,
+    "metric": "Accountant II",
+    "tag": "Why Stop Now",
+    "processBar": 0.1,
+    "title": "Donal",
+    "email": "dwillison17@opensource.org"
+  },
+  {
+    "value": 4.0,
+    "sum": 28.89,
+    "metric": "Nurse",
+    "tag": "Bottle Shock",
+    "processBar": 1.0,
+    "title": "Clair",
+    "email": "cbettridge18@arstechnica.com"
+  },
+  {
+    "value": 3.6,
+    "sum": 80.86,
+    "metric": "Human Resources Assistant IV",
+    "tag": "Outlaw",
+    "processBar": 0.9,
+    "title": "Monica",
+    "email": "matmore19@cpanel.net"
+  },
+  {
+    "value": 1.9,
+    "sum": 92.32,
+    "metric": "Data Coordinator",
+    "tag": "Mad Detective (Sun taam)",
+    "processBar": 0.6,
+    "title": "Dulcy",
+    "email": "dtalmadge1a@simplemachines.org"
+  },
+  {
+    "value": 5.3,
+    "sum": 61.2,
+    "metric": "Graphic Designer",
+    "tag": "Devil's Advocate, The",
+    "processBar": 0.0,
+    "title": "Obed",
+    "email": "odagger1b@cisco.com"
+  },
+  {
+    "value": 2.4,
+    "sum": 16.01,
+    "metric": "GIS Technical Architect",
+    "tag": "Slap Shot 2: Breaking the Ice",
+    "processBar": 0.7,
+    "title": "Orelle",
+    "email": "oannes1c@meetup.com"
+  },
+  {
+    "value": 5.5,
+    "sum": 40.1,
+    "metric": "Senior Quality Engineer",
+    "tag": "Harem",
+    "processBar": 0.8,
+    "title": "Newton",
+    "email": "nkings1d@multiply.com"
+  },
+  {
+    "value": 7.7,
+    "sum": 59.44,
+    "metric": "Senior Sales Associate",
+    "tag": "Walk on Water",
+    "processBar": 0.6,
+    "title": "Katusha",
+    "email": "kosborn1e@economist.com"
+  },
+  {
+    "value": 9.3,
+    "sum": 83.97,
+    "metric": "Biostatistician II",
+    "tag": "Honey, I Blew Up the Kid",
+    "processBar": 0.7,
+    "title": "Sinclair",
+    "email": "shambatch1f@yellowpages.com"
+  },
+  {
+    "value": 5.6,
+    "sum": 12.86,
+    "metric": "Graphic Designer",
+    "tag": "Sweeney Todd",
+    "processBar": 0.6,
+    "title": "Cort",
+    "email": "cchamley1g@va.gov"
+  },
+  {
+    "value": 3.4,
+    "sum": 76.4,
+    "metric": "Budget/Accounting Analyst II",
+    "tag": "Homesman, The",
+    "processBar": 0.9,
+    "title": "Findley",
+    "email": "fblaisdell1h@photobucket.com"
+  },
+  {
+    "value": 5.9,
+    "sum": 59.59,
+    "metric": "Internal Auditor",
+    "tag": "Tere Bin Laden",
+    "processBar": 0.8,
+    "title": "Melodee",
+    "email": "mgrellis1i@dailymail.co.uk"
+  },
+  {
+    "value": 8.9,
+    "sum": 73.84,
+    "metric": "Quality Control Specialist",
+    "tag": "Just 4 Kicks",
+    "processBar": 0.2,
+    "title": "Cheslie",
+    "email": "cspollen1j@ed.gov"
+  },
+  {
+    "value": 1.1,
+    "sum": 69.49,
+    "metric": "Software Engineer IV",
+    "tag": "Wolves",
+    "processBar": 0.1,
+    "title": "Randal",
+    "email": "rbruni1k@chronoengine.com"
+  },
+  {
+    "value": 3.5,
+    "sum": 53.97,
+    "metric": "Marketing Assistant",
+    "tag": "Ceremony, The (Gishiki)",
+    "processBar": 0.1,
+    "title": "Charley",
+    "email": "csille1l@instagram.com"
+  },
+  {
+    "value": 2.9,
+    "sum": 43.7,
+    "metric": "Information Systems Manager",
+    "tag": "Advise and Consent",
+    "processBar": 0.0,
+    "title": "Karen",
+    "email": "kthomazin1m@parallels.com"
+  },
+  {
+    "value": 5.1,
+    "sum": 23.05,
+    "metric": "Librarian",
+    "tag": "Princess and the Warrior, The (Krieger und die Kaiserin, Der)",
+    "processBar": 0.5,
+    "title": "Kerk",
+    "email": "kbiswell1n@mashable.com"
+  },
+  {
+    "value": 2.1,
+    "sum": 84.17,
+    "metric": "Community Outreach Specialist",
+    "tag": "Freshman, The",
+    "processBar": 0.1,
+    "title": "Glenine",
+    "email": "gsylett1o@theatlantic.com"
+  },
+  {
+    "value": 9.5,
+    "sum": 71.43,
+    "metric": "Cost Accountant",
+    "tag": "Divided We Fall (Musíme si pomáhat)",
+    "processBar": 0.2,
+    "title": "Billie",
+    "email": "blatham1p@icq.com"
+  },
+  {
+    "value": 5.6,
+    "sum": 82.39,
+    "metric": "Librarian",
+    "tag": "Mr. Vampire (Geung si sin sang)",
+    "processBar": 0.5,
+    "title": "Jasun",
+    "email": "jchillcot1q@topsy.com"
+  },
+  {
+    "value": 9.1,
+    "sum": 85.27,
+    "metric": "Biostatistician I",
+    "tag": "Metalhead (Málmhaus)",
+    "processBar": 0.1,
+    "title": "Morse",
+    "email": "mrignoldes1r@reverbnation.com"
+  },
+  {
+    "value": 4.2,
+    "sum": 80.54,
+    "metric": "Social Worker",
+    "tag": "Baby... Secret of the Lost Legend",
+    "processBar": 0.7,
+    "title": "Rocky",
+    "email": "rstonner1s@blogtalkradio.com"
+  },
+  {
+    "value": 4.5,
+    "sum": 85.47,
+    "metric": "Payment Adjustment Coordinator",
+    "tag": "Enemy at the Gates",
+    "processBar": 0.5,
+    "title": "Wilburt",
+    "email": "wdeaguirre1t@alibaba.com"
+  },
+  {
+    "value": 1.1,
+    "sum": 13.29,
+    "metric": "Paralegal",
+    "tag": "Last American Virgin, The",
+    "processBar": 0.1,
+    "title": "Peadar",
+    "email": "psprigging1u@oracle.com"
+  },
+  {
+    "value": 5.7,
+    "sum": 83.49,
+    "metric": "Legal Assistant",
+    "tag": "Becoming Chaz",
+    "processBar": 0.8,
+    "title": "Darrel",
+    "email": "dmartusov1v@desdev.cn"
+  },
+  {
+    "value": 6.9,
+    "sum": 60.52,
+    "metric": "Desktop Support Technician",
+    "tag": "Pure Country",
+    "processBar": 0.7,
+    "title": "Fifi",
+    "email": "fmcmurraya1w@people.com.cn"
+  },
+  {
+    "value": 9.1,
+    "sum": 85.82,
+    "metric": "Programmer IV",
+    "tag": "Who Killed Nancy?",
+    "processBar": 1.0,
+    "title": "Alvan",
+    "email": "asandeman1x@tinyurl.com"
+  },
+  {
+    "value": 7.1,
+    "sum": 12.88,
+    "metric": "Internal Auditor",
+    "tag": "Balloonatic, The",
+    "processBar": 0.0,
+    "title": "Damaris",
+    "email": "dfancutt1y@reddit.com"
+  },
+  {
+    "value": 3.5,
+    "sum": 68.64,
+    "metric": "Cost Accountant",
+    "tag": "Before I Disappear",
+    "processBar": 0.3,
+    "title": "Callie",
+    "email": "cdearlove1z@yahoo.co.jp"
+  },
+  {
+    "value": 7.6,
+    "sum": 49.48,
+    "metric": "Sales Associate",
+    "tag": "Tiger's Tail, The",
+    "processBar": 0.9,
+    "title": "Wilbert",
+    "email": "wlongbothom20@bluehost.com"
+  },
+  {
+    "value": 2.8,
+    "sum": 72.8,
+    "metric": "Design Engineer",
+    "tag": "Ishaqzaade",
+    "processBar": 0.8,
+    "title": "Willis",
+    "email": "wtailby21@weebly.com"
+  },
+  {
+    "value": 6.3,
+    "sum": 16.64,
+    "metric": "VP Accounting",
+    "tag": "Fear of Flying",
+    "processBar": 0.8,
+    "title": "Lark",
+    "email": "lvedeneev22@boston.com"
+  },
+  {
+    "value": 3.4,
+    "sum": 93.08,
+    "metric": "Senior Developer",
+    "tag": "Subject Was Roses, The",
+    "processBar": 0.8,
+    "title": "Valentino",
+    "email": "vbompass23@dailymail.co.uk"
+  },
+  {
+    "value": 4.9,
+    "sum": 43.73,
+    "metric": "VP Product Management",
+    "tag": "Peace, Propaganda & the Promised Land",
+    "processBar": 0.5,
+    "title": "Arlana",
+    "email": "abillinge24@indiegogo.com"
+  },
+  {
+    "value": 9.4,
+    "sum": 56.25,
+    "metric": "Assistant Manager",
+    "tag": "Deadgirl",
+    "processBar": 0.9,
+    "title": "Domingo",
+    "email": "daugust25@ustream.tv"
+  },
+  {
+    "value": 6.2,
+    "sum": 93.08,
+    "metric": "Product Engineer",
+    "tag": "Vikings, The",
+    "processBar": 0.5,
+    "title": "Mathilda",
+    "email": "mcapponer26@uol.com.br"
+  },
+  {
+    "value": 1.7,
+    "sum": 26.07,
+    "metric": "Chief Design Engineer",
+    "tag": "Manhunter",
+    "processBar": 0.7,
+    "title": "Benny",
+    "email": "bvanvuuren27@oakley.com"
+  },
+  {
+    "value": 3.3,
+    "sum": 50.83,
+    "metric": "Design Engineer",
+    "tag": "Private Lives of Pippa Lee, The",
+    "processBar": 0.7,
+    "title": "Caitlin",
+    "email": "cdoggrell28@time.com"
+  },
+  {
+    "value": 4.8,
+    "sum": 40.78,
+    "metric": "Assistant Media Planner",
+    "tag": "Godzilla vs. Hedorah (Gojira tai Hedorâ) (Godzilla vs. The Smog Monster) ",
+    "processBar": 0.9,
+    "title": "Yankee",
+    "email": "yrylatt29@nyu.edu"
+  },
+  {
+    "value": 5.8,
+    "sum": 52.66,
+    "metric": "Mechanical Systems Engineer",
+    "tag": "Bunnyman",
+    "processBar": 0.3,
+    "title": "Edi",
+    "email": "ealeksashin2a@wikia.com"
+  },
+  {
+    "value": 1.8,
+    "sum": 96.43,
+    "metric": "Senior Editor",
+    "tag": "Winds of the Wasteland",
+    "processBar": 0.2,
+    "title": "Laurie",
+    "email": "ltembridge2b@ucoz.ru"
+  },
+  {
+    "value": 4.7,
+    "sum": 28.84,
+    "metric": "Social Worker",
+    "tag": "Boys Town",
+    "processBar": 0.7,
+    "title": "Ricki",
+    "email": "roldridge2c@angelfire.com"
+  },
+  {
+    "value": 4.1,
+    "sum": 38.94,
+    "metric": "Staff Scientist",
+    "tag": "Paulie",
+    "processBar": 0.4,
+    "title": "Doria",
+    "email": "dminihan2d@bloomberg.com"
+  },
+  {
+    "value": 5.9,
+    "sum": 20.95,
+    "metric": "Financial Analyst",
+    "tag": "Reefer Madness (a.k.a. Tell Your Children)",
+    "processBar": 0.6,
+    "title": "Jeddy",
+    "email": "jupwood2e@edublogs.org"
+  },
+  {
+    "value": 8.0,
+    "sum": 61.87,
+    "metric": "Information Systems Manager",
+    "tag": "Brother (Brat)",
+    "processBar": 0.9,
+    "title": "Inger",
+    "email": "ibohlin2f@marriott.com"
+  },
+  {
+    "value": 3.8,
+    "sum": 21.83,
+    "metric": "Analog Circuit Design manager",
+    "tag": "Tender Hook, The (Boxer and the Bombshell, The)",
+    "processBar": 0.2,
+    "title": "Bond",
+    "email": "bgowthorpe2g@w3.org"
+  },
+  {
+    "value": 9.7,
+    "sum": 28.49,
+    "metric": "Web Developer III",
+    "tag": "Windy Day (Tuulinen päivä)",
+    "processBar": 0.2,
+    "title": "Kellen",
+    "email": "kmeth2h@unblog.fr"
+  },
+  {
+    "value": 8.4,
+    "sum": 33.96,
+    "metric": "Research Associate",
+    "tag": "Don't Be a Menace to South Central While Drinking Your Juice in the Hood",
+    "processBar": 0.9,
+    "title": "Oona",
+    "email": "olink2i@stumbleupon.com"
+  },
+  {
+    "value": 6.8,
+    "sum": 61.36,
+    "metric": "VP Sales",
+    "tag": "Women Art Revolution",
+    "processBar": 0.3,
+    "title": "Alanna",
+    "email": "afawssett2j@qq.com"
+  },
+  {
+    "value": 2.8,
+    "sum": 22.67,
+    "metric": "Help Desk Operator",
+    "tag": "Daddy Nostalgia (Daddy Nostalgie)",
+    "processBar": 0.6,
+    "title": "Linette",
+    "email": "lgenthner2k@mapquest.com"
+  },
+  {
+    "value": 4.7,
+    "sum": 35.22,
+    "metric": "Account Representative IV",
+    "tag": "Ace Attorney (Gyakuten saiban)",
+    "processBar": 1.0,
+    "title": "Stevie",
+    "email": "sdye2l@diigo.com"
+  },
+  {
+    "value": 1.7,
+    "sum": 87.81,
+    "metric": "Editor",
+    "tag": "American: The Bill Hicks Story",
+    "processBar": 0.8,
+    "title": "Mair",
+    "email": "mconor2m@umich.edu"
+  },
+  {
+    "value": 5.0,
+    "sum": 32.27,
+    "metric": "Computer Systems Analyst IV",
+    "tag": "Liar's Autobiography: The Untrue Story of Monty Python's Graham Chapman, A",
+    "processBar": 0.3,
+    "title": "Eliza",
+    "email": "egawthorp2n@slashdot.org"
+  },
+  {
+    "value": 9.5,
+    "sum": 67.76,
+    "metric": "Database Administrator III",
+    "tag": "Hobson's Choice",
+    "processBar": 0.7,
+    "title": "Pepito",
+    "email": "pdedantesie2o@icio.us"
+  },
+  {
+    "value": 2.4,
+    "sum": 39.16,
+    "metric": "Budget/Accounting Analyst III",
+    "tag": "Me and you (io e te)",
+    "processBar": 0.3,
+    "title": "Roland",
+    "email": "rclayborn2p@gizmodo.com"
+  },
+  {
+    "value": 5.7,
+    "sum": 73.88,
+    "metric": "Web Developer I",
+    "tag": "Hierro ",
+    "processBar": 0.4,
+    "title": "Winnah",
+    "email": "wgosswell2q@desdev.cn"
+  },
+  {
+    "value": 8.7,
+    "sum": 73.85,
+    "metric": "Help Desk Operator",
+    "tag": "Statue of Liberty, The",
+    "processBar": 1.0,
+    "title": "Bren",
+    "email": "bhanratty2r@disqus.com"
+  }
+]
